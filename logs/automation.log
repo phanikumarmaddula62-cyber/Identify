@@ -1,0 +1,119 @@
+10:39:15.369 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:17)oggger - Searching for Web Development Courses
+10:39:19.193 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:19)oggger - Results shown for Web Development Courses
+10:39:19.228 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:18)oggger - Selecting level as 'Beginner'
+10:39:19.887 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:20)oggger - Selected level as 'Beginner' and closed the level Dropdown
+10:39:19.888 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:25)oggger - Selecting language as 'English'
+10:39:20.747 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:27)oggger - Selected language as 'English' and closed the language Dropdown
+10:39:20.749 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC_ApplyFilters.java:32)oggger - Printing the Title,Rating,Duration of first 2 courses
+10:39:22.685 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:19)oggger - Clearing the filters
+10:39:22.946 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:21)oggger - Fetching the 'Levels'
+10:39:24.734 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+10:39:24.738 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:28)oggger - Fetching the 'Languages'
+10:39:31.093 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+10:39:31.415 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+10:39:31.426 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:20)oggger - Filling the Form with Details
+10:39:42.482 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:22)oggger - Form Submitted successfully
+10:39:42.482 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:23)oggger - Fetching the Error Message
+10:39:42.784 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:25)oggger - Error Message Fetched Successfully
+10:47:19.595 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:17)oggger - Searching for Web Development Courses
+10:47:23.290 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:19)oggger - Results shown for Web Development Courses
+10:47:23.334 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:18)oggger - Selecting level as 'Beginner'
+10:47:23.914 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:20)oggger - Selected level as 'Beginner' and closed the level Dropdown
+10:47:23.927 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:25)oggger - Selecting language as 'English'
+10:47:24.877 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:27)oggger - Selected language as 'English' and closed the language Dropdown
+10:47:24.879 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC_ApplyFilters.java:32)oggger - Printing the Title,Rating,Duration of first 2 courses
+10:47:26.977 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:19)oggger - Clearing the filters
+10:47:27.323 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:21)oggger - Fetching the 'Levels'
+10:47:29.414 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+10:47:29.416 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:28)oggger - Fetching the 'Languages'
+10:47:35.601 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+10:47:35.877 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+10:47:35.888 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:20)oggger - Filling the Form with Details
+10:47:49.120 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:22)oggger - Form Submitted successfully
+10:47:49.120 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:23)oggger - Fetching the Error Message
+10:47:49.368 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:25)oggger - Error Message Fetched Successfully
+10:55:27.388 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:17)oggger - Searching for Web Development Courses
+10:55:31.303 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC_Search.java:19)oggger - Results shown for Web Development Courses
+10:55:31.346 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:18)oggger - Selecting level as 'Beginner'
+10:55:32.043 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC_ApplyFilters.java:20)oggger - Selected level as 'Beginner' and closed the level Dropdown
+10:55:32.058 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:25)oggger - Selecting language as 'English'
+10:55:32.895 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC_ApplyFilters.java:27)oggger - Selected language as 'English' and closed the language Dropdown
+10:55:32.895 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC_ApplyFilters.java:32)oggger - Printing the Title,Rating,Duration of first 2 courses
+10:55:34.266 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:19)oggger - Clearing the filters
+10:55:34.523 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:21)oggger - Fetching the 'Levels'
+10:55:36.097 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+10:55:36.100 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:28)oggger - Fetching the 'Languages'
+10:55:41.779 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+10:55:42.008 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+10:55:42.018 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:20)oggger - Filling the Form with Details
+10:55:54.587 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:22)oggger - Form Submitted successfully
+10:55:54.587 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:23)oggger - Fetching the Error Message
+10:55:54.901 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC_Form.java:25)oggger - Error Message Fetched Successfully
+11:02:54.506 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:17)oggger - Searching for Web Development Courses
+11:02:58.578 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:19)oggger - Results shown for Web Development Courses
+11:02:58.591 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:18)oggger - Selecting level as 'Beginner'
+11:02:59.153 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:20)oggger - Selected level as 'Beginner' and closed the level Dropdown
+11:02:59.158 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:25)oggger - Selecting language as 'English'
+11:02:59.881 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:27)oggger - Selected language as 'English' and closed the language Dropdown
+11:02:59.886 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC02_ApplyFilters.java:32)oggger - Printing the Title,Rating,Duration of first 2 courses
+11:03:00.564 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:19)oggger - Clearing the filters
+11:03:00.788 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:21)oggger - Fetching the 'Levels'
+11:03:02.434 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+11:03:02.434 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:28)oggger - Fetching the 'Languages'
+11:03:08.541 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+11:03:08.766 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+11:03:08.777 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:20)oggger - Filling the Form with Details
+11:03:22.273 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:22)oggger - Form Submitted successfully
+11:03:22.273 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:23)oggger - Fetching the Error Message
+11:03:22.591 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:25)oggger - Error Message Fetched Successfully
+11:44:36.957 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:18)oggger - Searching for Web Development Courses
+11:44:43.463 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:20)oggger - Results shown for Web Development Courses
+11:44:43.619 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:19)oggger - Selecting level as 'Beginner'
+11:44:44.833 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:21)oggger - Selected level as 'Beginner' and closed the level Dropdown
+11:44:44.833 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:27)oggger - Selecting language as 'English'
+11:44:46.144 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:29)oggger - Selected language as 'English' and closed the language Dropdown
+11:44:46.151 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC02_ApplyFilters.java:35)oggger - Printing the Title,Rating,Duration of first 2 courses
+11:44:48.809 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:19)oggger - Clearing the filters
+11:44:49.513 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:21)oggger - Fetching the 'Levels'
+11:44:53.129 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+11:44:53.136 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:28)oggger - Fetching the 'Languages'
+11:45:08.871 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+11:45:09.481 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+11:45:09.513 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:21)oggger - Filling the Form with Details
+11:45:30.651 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:23)oggger - Form Submitted successfully
+11:45:30.651 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:24)oggger - Fetching the Error Message
+11:45:31.082 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:26)oggger - Error Message Fetched Successfully
+11:47:33.907 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:18)oggger - Searching for Web Development Courses
+11:47:39.134 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:20)oggger - Results shown for Web Development Courses
+11:47:39.282 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:19)oggger - Selecting level as 'Beginner'
+11:47:40.298 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:21)oggger - Selected level as 'Beginner' and closed the level Dropdown
+11:47:40.298 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:27)oggger - Selecting language as 'English'
+11:47:41.614 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:29)oggger - Selected language as 'English' and closed the language Dropdown
+11:47:41.619 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC02_ApplyFilters.java:35)oggger - Printing the Title,Rating,Duration of first 2 courses
+11:47:44.618 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:19)oggger - Clearing the filters
+11:47:45.304 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:21)oggger - Fetching the 'Levels'
+11:47:49.056 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+11:47:49.060 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:28)oggger - Fetching the 'Languages'
+11:48:02.549 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+11:48:03.068 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+11:48:03.084 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:21)oggger - Filling the Form with Details
+11:48:18.178 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:23)oggger - Form Submitted successfully
+11:48:18.178 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:24)oggger - Fetching the Error Message
+11:48:18.563 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:26)oggger - Error Message Fetched Successfully
+11:49:23.832 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:18)oggger - Searching for Web Development Courses
+11:49:28.854 [TestNG-tests-1] INFO  TestClass.TC01_Search.search(TC01_Search.java:20)oggger - Results shown for Web Development Courses
+11:49:28.948 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:19)oggger - Selecting level as 'Beginner'
+11:49:29.994 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.levelfilter(TC02_ApplyFilters.java:21)oggger - Selected level as 'Beginner' and closed the level Dropdown
+11:49:30.001 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:27)oggger - Selecting language as 'English'
+11:49:30.964 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.languagefilter(TC02_ApplyFilters.java:29)oggger - Selected language as 'English' and closed the language Dropdown
+11:49:30.971 [TestNG-tests-1] INFO  TestClass.TC02_ApplyFilters.Data(TC02_ApplyFilters.java:35)oggger - Printing the Title,Rating,Duration of first 2 courses
+11:49:32.504 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:19)oggger - Clearing the filters
+11:49:33.080 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:21)oggger - Fetching the 'Levels'
+11:49:37.408 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data(TC03_CourseData.java:23)oggger - 'Levels' Fetched Successfully
+11:49:37.415 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:28)oggger - Fetching the 'Languages'
+11:49:50.208 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:30)oggger - 'Languages' Fetched Successfully
+11:49:50.749 [TestNG-tests-1] INFO  TestClass.TC03_CourseData.data1(TC03_CourseData.java:32)oggger - Levels and Languages stored in Excel File Successfully
+11:49:50.784 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:21)oggger - Filling the Form with Details
+11:50:06.521 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:23)oggger - Form Submitted successfully
+11:50:06.521 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:24)oggger - Fetching the Error Message
+11:50:06.881 [TestNG-tests-1] INFO  TestClass.TC04_Form.fill(TC04_Form.java:26)oggger - Error Message Fetched Successfully
