@@ -27,7 +27,7 @@ public class TC02_ApplyFilters extends BaseTest {
         logger.info("Selecting language as 'English'");
         boolean status=sp.languageSelect();
        logger.info("Selected language as 'English' and closed the language Dropdown");
-       Assert.assertFalse(status);
+       Assert.assertTrue(status);
     }
 
     @Test(priority = 4)
